@@ -1,3 +1,26 @@
+# 🏸 Python Badminton Game Project
+
+### 📝 Project Description
+This project simulates a **2D Badminton Match** developed using **Python**.
+It features realistic shuttlecock physics (projectile motion with air resistance) and player movement mechanics.
+(파이썬을 활용해 개발한 2D 배드민턴 게임입니다. 셔틀콕의 포물선 운동과 공기 저항 물리 효과를 구현했습니다.)
+
+### 🛠️ Tech Stack
+* **Language:** Python 3.14
+* **Library:** Pygame
+* **Key Features:**
+    * **Shuttlecock Physics:** Implemented gravity and deceleration
+    * **Player Control:** Smooth racket movement & smash mechanics
+    * **Scoring System:** Real-time score tracking (Match Point logic)
+
+### 📸 Screenshot
+<img width="1590" height="1067" alt="image" src="https://github.com/user-attachments/assets/2c70d7a6-a8a6-403c-968c-2e4bfe22894b" />
+
+
+### 🚀 How to Run
+1. Install Python 3.x
+2. Install Pygame: `pip install pygame`
+3. Run the game: `python main.py` (or your file name)
 # Pygame-badminton[badminton.py](https://github.com/user-attachments/files/25467053/badminton.py)
 import pygame
 import sys
