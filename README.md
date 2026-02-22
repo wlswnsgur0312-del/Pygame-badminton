@@ -20,7 +20,7 @@ It features realistic shuttlecock physics (projectile motion with air resistance
 ### 🚀 How to Run
 1. Install Python 3.x
 2. Install Pygame: `pip install pygame`
-3. Run the game: `python main.py` (or your file name)
+3. Run the game: `badminton.py`
 # Pygame-badminton[badminton.py](https://github.com/user-attachments/files/25467053/badminton.py)
 import pygame
 import sys
